@@ -6,7 +6,7 @@
 
  date    : 2024/07/26
 
- update  :2024/07/27
+ update  : 2024/08/18
 ***
 ### Summary
 
@@ -23,7 +23,10 @@ yarn dev
 ***
 ### blog 
 
-https://zenn.dev/knaka0209/scraps/e0bb4787b6e9ae
+***
+# License
+
+* MIT
 
 ***
 
